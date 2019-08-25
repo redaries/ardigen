@@ -1,0 +1,4 @@
+include README.md
+recursive-include ardigen *
+recursive-exclude * __pycache__
+recursive-exclude * *.pyc
